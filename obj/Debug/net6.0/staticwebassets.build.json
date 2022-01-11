@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "xKmxB1ijZKlahihTa7SnOS5Oc0tNk/GWxCkI56RhCxQ=",
+  "Source": "ServiceBQ",
+  "BasePath": "_content/ServiceBQ",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ServiceBQ/wwwroot",
+      "Source": "ServiceBQ",
+      "ContentRoot": "/home/marcos/Documentos/Repositorio/ServiceBQ/wwwroot/",
+      "BasePath": "_content/ServiceBQ",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/marcos/Documentos/Repositorio/ServiceBQ/wwwroot/bq-key.json",
+      "SourceId": "ServiceBQ",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/marcos/Documentos/Repositorio/ServiceBQ/wwwroot/",
+      "BasePath": "_content/ServiceBQ",
+      "RelativePath": "bq-key.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/bq-key.json"
+    }
+  ]
+}
